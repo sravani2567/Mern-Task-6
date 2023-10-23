@@ -62,7 +62,7 @@ function App() {
 
       <section className="home" id="home">
         <h3>HELLO!!</h3>
-        <h1>This is <span>Lakshmi Prasanna</span></h1>
+        <h1>This is <span>Sravani</span></h1>
       </section>
 
       <section className="about" id="about">
